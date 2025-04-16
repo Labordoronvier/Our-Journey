@@ -13,6 +13,16 @@ new Vue({
         ],
         isOpen: false
       },
+      {
+        title: 'Page 1',
+        images: [
+          'coffee date1.jpg',
+          'coffee date2.jpg',
+          'coffee date3.jpg',
+          'coffee date4.jpg'
+        ],
+        isOpen: false
+      },
     ]
   },
   methods: {
