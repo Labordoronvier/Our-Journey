@@ -9,17 +9,17 @@ new Vue({
           'coffee date1.jpg',
           'coffee date2.jpg',
           'coffee date3.jpg',
-          'img/photo4.jpg'
+          '1jpg'
         ],
         isOpen: false
       },
       {
-        title: 'Page 1',
+        title: 'Page 2',
         images: [
-          'coffee date1.jpg',
-          'coffee date2.jpg',
-          'coffee date3.jpg',
-          'coffee date4.jpg'
+          '2.jpg',
+          '3.jpg',
+          '4.jpg',
+          '5.jpg'
         ],
         isOpen: false
       },
